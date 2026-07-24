@@ -1,0 +1,14 @@
+pandas
+numpy
+openpyxl
+xlrd
+streamlit
+plotly
+matplotlib
+reportlab
+pytest
+pytest-cov
+python-dotenv
+tqdm
+black
+flake8
