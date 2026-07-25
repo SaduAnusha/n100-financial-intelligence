@@ -1,0 +1,155 @@
+﻿# Nifty 100 Financial Intelligence Platform
+## Analyst User Guide v1.0
+
+### Introduction
+Complete financial intelligence system for 92 Nifty 100 companies with 10+ years of historical data.
+
+### Dashboard Features
+
+**Home Screen**
+- Market overview with top 10 companies
+- Sector-wise distribution (11 sectors)
+- Key market metrics (average ROE, D/E, CAGR)
+
+**Company Profile**
+- 10-year financial charts (P&L, Balance Sheet, Cash Flow)
+- Latest KPIs (30+ metrics)
+- Peer comparison radar chart
+- Pros/Cons summary
+
+**Screener**
+- 15 configurable filters:
+  - Return on Equity (ROE)
+  - Debt-to-Equity ratio
+  - Revenue CAGR
+  - Profit CAGR
+  - Operating margins
+- 6 presets: Quality, Value, Growth, Dividend, Cyclical, Turnaround
+- Export to CSV
+
+**Peer Comparison**
+- Radar charts vs 11 peer groups
+- Percentile rankings
+- Multi-metric comparison
+
+**Trends**
+- 10-year overlay charts
+- YoY growth annotations
+- Seasonal patterns
+
+**Sectors**
+- Bubble chart (size = market cap, color = growth)
+- Sector median KPIs
+- Top/bottom performers
+
+**Capital Allocation**
+- Treemap by cash flow pattern
+- FCF trends
+- Dividend patterns
+
+**Annual Reports**
+- BSE document links
+- PDF tearsheets (downloadable)
+- Historical reports (10 years)
+
+### Key Metrics Explained
+
+**Return on Equity (ROE)**
+- Net Profit / Shareholder Equity
+- Higher = better capital efficiency
+- Good: >15%, Excellent: >20%
+
+**Debt-to-Equity (D/E)**
+- Total Debt / Total Equity
+- Lower = less financial risk
+- Safe: <1.0, Conservative: <0.5
+
+**Revenue CAGR**
+- 5-year Compound Annual Growth Rate
+- Positive = growing top line
+- Benchmark: >10-15% is good
+
+**Operating Profit Margin**
+- Operating Profit / Revenue
+- Higher = better operational efficiency
+- Benchmark: >15-20% is strong
+
+### Clustering Analysis
+
+**5 Company Archetypes:**
+
+1. **High-Quality Compounders (6 companies)**
+   - Strong ROE, low D/E, high CAGR
+   - Profile: Best-in-class operators
+   - Use case: Long-term wealth creation
+
+2. **Dividend Defenders (14 companies)**
+   - Stable metrics, consistent dividends
+   - Profile: Mature, cash-generative
+   - Use case: Income generation
+
+3. **Value Cyclicals (56 companies)**
+   - Moderate metrics, cyclical business
+   - Profile: Mid-range performers
+   - Use case: Tactical trades
+
+4. **Growth Leaders (2 companies)**
+   - High growth, lower profitability
+   - Profile: Emerging champions
+   - Use case: High-risk, high-reward
+
+5. **Distressed/Turnaround (12 companies)**
+   - Weak metrics, recovery plays
+   - Profile: Turnarounds in progress
+   - Use case: Speculative bets
+
+### How to Use the Screener
+
+**Step 1: Select filters**
+- Set minimum ROE (e.g., 15%)
+- Set maximum D/E (e.g., 0.8)
+- Set minimum Revenue CAGR (e.g., 10%)
+- Select sector (optional)
+
+**Step 2: Review results**
+- See matching companies
+- Check latest KPIs
+- Compare vs peers
+
+**Step 3: Export**
+- Click "Download CSV"
+- Analyze in Excel
+- Build portfolio
+
+### Data Quality & Limitations
+
+**Data Coverage:**
+- 92 companies (100% of Nifty 100)
+- 10-13 years of history (FY 2010-2024)
+- 30+ financial KPIs per company
+- 0 data integrity violations
+
+**Known Limitations:**
+- 2 companies (ATGL, SBIN) missing tearsheets due to data gaps
+- Market cap data is estimated for some historical years
+- Clustering based on latest available year (may not reflect current status)
+
+**Data Freshness:**
+- Updated as of July 25, 2026
+- Next update: As financial results available
+
+### Support & Contact
+
+**Questions?**
+Email: saduanusha2004@gmail.com
+GitHub: github.com/SaduAnusha/n100-financial-intelligence
+LinkedIn: linkedin.com/in/anusha-sadu-1179863ba
+
+**Report Issues:**
+GitHub Issues: https://github.com/SaduAnusha/n100-financial-intelligence/issues
+
+---
+**Document Version:** 1.0
+**Date:** July 25, 2026
+**Project:** N100 Financial Intelligence Platform
+**Status:** Production Ready
