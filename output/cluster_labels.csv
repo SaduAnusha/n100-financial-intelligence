@@ -1,0 +1,108 @@
+company_id,company_name,broad_sector,cluster_id,cluster_name,distance_from_centroid
+ABB,Abbott India Ltd,Industrials,2,Value Cyclicals,0.5494262829297744
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,2,Value Cyclicals,1.0592649137478791
+ADANIENT,Adani Enterprises Ltd,Industrials,2,Value Cyclicals,1.3899173639389393
+ADANIGREEN,Adani Green Energy Ltd,Energy,4,Distressed/Turnaround,2.413937504848044
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,1,Dividend Defenders,1.0360538204449397
+ADANIPOWER,Adani Power Ltd,Energy,2,Value Cyclicals,0.7608474852165801
+AMBUJACEM,Ambuja Cements Ltd,Materials,2,Value Cyclicals,1.0265823707096835
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,2,Value Cyclicals,0.37525610724594594
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,2,Value Cyclicals,0.27500943191904603
+AXISBANK,Axis Bank Ltd,Financials,0,High-Quality Compounders,1.4909902687354
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,2,Value Cyclicals,0.5190228613309821
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,4,Distressed/Turnaround,0.9977450897976247
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,1,Dividend Defenders,2.5702793327868205
+BAJFINANCE,Bajaj Finance Ltd,Financials,4,Distressed/Turnaround,1.4420031340554051
+BANKBARODA,Bank of Baroda,Financials,0,High-Quality Compounders,2.981644028074225
+BEL,Bharat Electronics Ltd,Industrials,3,Growth Leaders,0.7726901001675153
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,2,Value Cyclicals,1.365835711583661
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,2,Value Cyclicals,1.4648416371486421
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,2,Value Cyclicals,1.1215304643586503
+BPCL,Bharat Petroleum Corporation Ltd,Energy,0,High-Quality Compounders,1.9730579880542036
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,2,Value Cyclicals,0.5520979017178891
+CANBK,Canara Bank,Financials,4,Distressed/Turnaround,2.7886984002921382
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,4,Distressed/Turnaround,1.0318988670339122
+CIPLA,"Cipla Ltd
+",Healthcare,1,Dividend Defenders,1.2247626444783228
+COALINDIA,Coal India Ltd,Materials,1,Dividend Defenders,1.2723281329885672
+DABUR,Dabur India Ltd,Consumer Staples,2,Value Cyclicals,0.7742552352303865
+DIVISLAB,Divis Laboratories Ltd,Healthcare,2,Value Cyclicals,0.8641879562605971
+DLF,DLF Ltd,Real Estate,2,Value Cyclicals,1.5351044365966224
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,2,Value Cyclicals,0.9035925178121013
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,2,Value Cyclicals,0.6339296090928981
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,2,Value Cyclicals,0.4570902619484549
+GAIL,GAIL (India) Ltd,Energy,2,Value Cyclicals,0.9749993840255285
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,2,Value Cyclicals,0.6036578644845352
+GRASIM,Grasim Industries Ltd,Industrials,2,Value Cyclicals,0.7052755051307195
+HAL,Hindustan Aeronautics Ltd,Industrials,3,Growth Leaders,0.7726901001675014
+HAVELLS,Havells India Ltd,Industrials,2,Value Cyclicals,0.7710895263110196
+HCLTECH,HCL Technologies Ltd,Information Technology,2,Value Cyclicals,0.4919978827753976
+HDFCBANK,HDFC Bank Ltd,Financials,4,Distressed/Turnaround,0.5496950403601303
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,1,Dividend Defenders,2.1829642652229158
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,1,Dividend Defenders,1.7087255955867011
+HINDALCO,Hindalco Industries Ltd,Materials,1,Dividend Defenders,0.7045501361864982
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,1,Dividend Defenders,0.982858947003384
+ICICIBANK,ICICI Bank Ltd,Financials,4,Distressed/Turnaround,0.8599763229440374
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,1,Dividend Defenders,0.5405024925603118
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,1,Dividend Defenders,3.1689580255852094
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,1,Dividend Defenders,1.3689920124059423
+INDUSINDBK,IndusInd Bank Ltd,Financials,4,Distressed/Turnaround,1.1173097157222658
+INFY,Infosys Ltd,Information Technology,2,Value Cyclicals,0.34652492032280324
+IOC,"Indian Oil Corporation
+",Energy,2,Value Cyclicals,0.45101328240655875
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,2,Value Cyclicals,0.7248519241338487
+IRFC,Indian Railway Finance Corporation Ltd,Financials,4,Distressed/Turnaround,1.8084550323203579
+ITC,"ITC Ltd
+",Consumer Staples,2,Value Cyclicals,0.927956978022098
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,2,Value Cyclicals,0.7337655909905481
+JIOFIN,Jio Financial Services Ltd,Financials,1,Dividend Defenders,0.5969472326831137
+JSWENERGY,JSW Energy Ltd,Energy,2,Value Cyclicals,1.190567470271249
+JSWSTEEL,JSW Steel Ltd,Materials,2,Value Cyclicals,1.3529139707712543
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Financials,1,Dividend Defenders,1.3940553036665289
+LICI,Life Insurance Corporation of India,Financials,0,High-Quality Compounders,1.9793727086401784
+LODHA,Macrotech Developers Ltd,Real Estate,2,Value Cyclicals,2.2028683867196306
+LT,Larsen & Toubro Ltd,Industrials,2,Value Cyclicals,0.59667359720717
+LTIM,LTIMindtree Ltd,Information Technology,2,Value Cyclicals,2.5845982516789174
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,2,Value Cyclicals,0.6119946415613828
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,2,Value Cyclicals,0.6467858971244982
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,2,Value Cyclicals,0.5215254214050383
+NAUKRI,Info Edge (India) Ltd,Communication Services,2,Value Cyclicals,0.6563861440532921
+NESTLEIND,Nestle India Ltd,Consumer Staples,2,Value Cyclicals,0.4308080561160339
+NHPC,"NHPC Ltd
+",Energy,2,Value Cyclicals,2.139219985856636
+NTPC,NTPC Ltd,Energy,2,Value Cyclicals,0.43368937798837076
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,2,Value Cyclicals,1.536506399491236
+PFC,Power Finance Corporation Ltd,Financials,4,Distressed/Turnaround,1.410259981840065
+PIDILITIND,Pidilite Industries Ltd,Materials,2,Value Cyclicals,0.35938749647199425
+PNB,Punjab National Bank,Financials,0,High-Quality Compounders,0.9276542713358197
+POWERGRID,Power Grid Corporation of India Ltd,Energy,1,Dividend Defenders,1.781280803870564
+RECLTD,REC Ltd,Financials,4,Distressed/Turnaround,1.9748924204967424
+RELIANCE,"Reliance Industries Ltd
+",Energy,2,Value Cyclicals,0.33162458586692195
+SBILIFE,SBI Life Insurance Company Ltd,Financials,2,Value Cyclicals,2.3715127033723307
+SHREECEM,Shree Cement Ltd,Materials,2,Value Cyclicals,0.7489988201341686
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,4,Distressed/Turnaround,1.4341853645376812
+SIEMENS,Siemens Ltd,Industrials,2,Value Cyclicals,0.5072039991726458
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,2,Value Cyclicals,0.542659952179525
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,2,Value Cyclicals,0.5585084602364297
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,2,Value Cyclicals,0.46389992140595776
+TATAPOWER,"Tata Power Company Ltd
+",Energy,2,Value Cyclicals,1.2286064075885172
+TATASTEEL,"Tata Steel Ltd
+",Materials,2,Value Cyclicals,0.44410256143857585
+TCS,Tata Consultancy Services Ltd,Information Technology,2,Value Cyclicals,0.5533137106619717
+TECHM,Tech Mahindra Ltd,Information Technology,2,Value Cyclicals,1.6068417066250609
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,2,Value Cyclicals,1.4949691600137975
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,2,Value Cyclicals,0.8062062504591755
+TRENT,Trent Ltd,Consumer Discretionary,0,High-Quality Compounders,2.7577930601527365
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,2,Value Cyclicals,1.5059290852629086
