@@ -1,4 +1,7 @@
-import os, sys, pandas as pd, streamlit as st
+import os
+
+pages = {
+    "01_home.py": """import os, sys, pandas as pd, streamlit as st
 HERE = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.normpath(os.path.join(HERE, "..", "..", ".."))
 sys.path.insert(0, os.path.join(PROJECT_ROOT, "src", "dashboard", "utils"))
@@ -20,3 +23,13 @@ try:
     st.dataframe(top_roe, use_container_width=True)
 except Exception as e:
     st.error(f"Error: {str(e)}")
+""",
+}
+
+for page, content in pages.items():
+    path = f"src/dashboard/pages/{page}"
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(content)
+    print(f"Fixed {page}")
+
+print("All pages fixed!")
